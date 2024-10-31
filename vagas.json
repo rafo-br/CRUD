@@ -1,14 +1,14 @@
 [
     {
-        "IdEmpresa": "1",
-        "Funcao": "Dev",
-        "Curso": "ADS",
-        "Periodo Minimo": 1,
-        "Turno": "matutino",
-        "Bolsa": 500.0,
-        "Auxilio Transporte": "sim",
+        "Id Empresa": 1,
+        "Funcao": "Estagiario",
+        "Curso": "Letras",
+        "Periodo Minimo": 2,
+        "Turno": "Noturno",
+        "Bolsa": 1200.0,
+        "Auxilio Transporte": "Sim",
         "Idade Minima": 19,
         "Status": "aberta",
-        "Prazo": "01/05/2025"
+        "Prazo": "30/03/2025"
     }
 ]
