@@ -1,0 +1,14 @@
+[
+    {
+        "IdEmpresa": "1",
+        "Funcao": "Dev",
+        "Curso": "ADS",
+        "Periodo Minimo": 1,
+        "Turno": "matutino",
+        "Bolsa": 500.0,
+        "Auxilio Transporte": "sim",
+        "Idade Minima": 19,
+        "Status": "aberta",
+        "Prazo": "01/05/2025"
+    }
+]
